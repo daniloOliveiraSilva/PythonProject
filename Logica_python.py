@@ -21,14 +21,14 @@ for item in funcionarios:
 
 numero=10
 texto= "Charles"
-#verdade= True5
+verdade= True
 '''
 while numero <= 20:
     print (numero)
     numero = numero + 1
-
-#print('numero: ' + str(numero), 'texto: '+texto, 'verdade:  ' + str(verdade))
 '''
+print('numero: ' + str(numero), 'texto: '+texto, 'verdade:  ' + str(verdade))
+
 
 if texto == 'Charles':
     print(texto)
