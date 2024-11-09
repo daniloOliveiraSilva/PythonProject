@@ -1,7 +1,7 @@
 <h1>Estudos em Python</h1>
 
 <h2>�� Sobre</h2>
-<p>Projeto com codigo de logica e premeiros passos em Python.</p>
+<p>Projeto com código de lógica e primeiros passos em Python.</p>
 
 ## �� Tecnologias
 <div>
