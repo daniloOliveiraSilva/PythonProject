@@ -19,8 +19,8 @@ funcionarios = ['Danilo', 'Pamella' , 'Pedro']
 for item in funcionarios:
     print(item)
 
-#numero=10
-#texto= "Charles"
+numero=10
+texto= "Charles"
 #verdade= True5
 '''
 while numero <= 20:
@@ -29,7 +29,7 @@ while numero <= 20:
 
 #print('numero: ' + str(numero), 'texto: '+texto, 'verdade:  ' + str(verdade))
 '''
-'''''
+
 if texto == 'Charles':
     print(texto)
     print(numero)
@@ -39,8 +39,9 @@ else:
     print(texto)
     print(numero)
 
-    # IF TESTANDO DIFERENTE
-
+    
+'''''
+# IF TESTANDO DIFERENTE
 if texto != 'Charles':
     print(texto)
     print(numero)
