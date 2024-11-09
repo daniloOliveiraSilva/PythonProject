@@ -14,10 +14,10 @@ def frase ():
 
 frase()
 
-#funcionarios = ['Danilo', 'Pamella' , 'Pedro']
+funcionarios = ['Danilo', 'Pamella' , 'Pedro']
 
-#for item in funcionarios:
-   # print(item)
+for item in funcionarios:
+    print(item)
 
 #numero=10
 #texto= "Charles"
